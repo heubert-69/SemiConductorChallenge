@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/427510529206526843/93e10463f5074a18bf0717dd476dd47c/artifacts
+end_time: 1777584293355
+entry_point_name: ''
+experiment_id: '427510529206526843'
+lifecycle_stage: active
+run_id: 93e10463f5074a18bf0717dd476dd47c
+run_name: Weighted_Ensemble
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777583783312
+status: 3
+tags: []
+user_id: voltsy

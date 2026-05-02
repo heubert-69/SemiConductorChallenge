@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/628482920464164812/db4f3a5013134ea4a2d208cc2669ed0a/artifacts
+end_time: 1777575498968
+entry_point_name: ''
+experiment_id: '628482920464164812'
+lifecycle_stage: active
+run_id: db4f3a5013134ea4a2d208cc2669ed0a
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777575220407
+status: 3
+tags: []
+user_id: voltsy

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/628482920464164812/9c3b4d3da536404dba8ae505838c95da/artifacts
+end_time: 1777576080776
+entry_point_name: ''
+experiment_id: '628482920464164812'
+lifecycle_stage: active
+run_id: 9c3b4d3da536404dba8ae505838c95da
+run_name: KNNeighbors
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777576061677
+status: 3
+tags: []
+user_id: voltsy

@@ -1,0 +1,22 @@
+artifact_path: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/628482920464164812/models/m-73be2c4a087443e29300529f80356038/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.6.0
+model_id: m-73be2c4a087443e29300529f80356038
+model_size_bytes: 4217696
+model_uuid: m-73be2c4a087443e29300529f80356038
+prompts: null
+run_id: b611398f82144504bcc112cce87cae2a
+utc_time_created: '2026-04-30 17:07:41.893980'

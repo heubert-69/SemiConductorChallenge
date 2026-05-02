@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/628482920464164812/models/m-43de0888a8824494b449431517245250/artifacts
+creation_timestamp: 1777575878244
+experiment_id: '628482920464164812'
+last_updated_timestamp: 1777575893453
+model_id: m-43de0888a8824494b449431517245250
+model_type: null
+name: CatBoost
+source_run_id: 47dfba0868234e3686b2fb621bf467d6
+status: 2
+status_message: null

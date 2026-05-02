@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/628482920464164812/389485cb64d54afb9912f134723a8599/artifacts
+end_time: 1777576061670
+entry_point_name: ''
+experiment_id: '628482920464164812'
+lifecycle_stage: active
+run_id: 389485cb64d54afb9912f134723a8599
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777575893507
+status: 3
+tags: []
+user_id: voltsy

@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/628482920464164812/models/m-4bfc391c47e74b13bc32623580372fe8/artifacts
+creation_timestamp: 1777576074338
+experiment_id: '628482920464164812'
+last_updated_timestamp: 1777576080755
+model_id: m-4bfc391c47e74b13bc32623580372fe8
+model_type: null
+name: KNNeighbors
+source_run_id: 9c3b4d3da536404dba8ae505838c95da
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/628482920464164812/models/m-bc038a36c085409f9676029378148343/artifacts
+creation_timestamp: 1777575458061
+experiment_id: '628482920464164812'
+last_updated_timestamp: 1777575498955
+model_id: m-bc038a36c085409f9676029378148343
+model_type: null
+name: XGBoost
+source_run_id: db4f3a5013134ea4a2d208cc2669ed0a
+status: 2
+status_message: null

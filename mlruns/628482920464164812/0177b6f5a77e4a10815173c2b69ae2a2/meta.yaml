@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/628482920464164812/0177b6f5a77e4a10815173c2b69ae2a2/artifacts
+end_time: 1777569119137
+entry_point_name: ''
+experiment_id: '628482920464164812'
+lifecycle_stage: active
+run_id: 0177b6f5a77e4a10815173c2b69ae2a2
+run_name: CatBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777568869851
+status: 4
+tags: []
+user_id: voltsy

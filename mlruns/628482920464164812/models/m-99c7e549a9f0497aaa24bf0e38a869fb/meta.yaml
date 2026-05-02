@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SemiConductorPrediction/mlruns/628482920464164812/models/m-99c7e549a9f0497aaa24bf0e38a869fb/artifacts
+creation_timestamp: 1777576055061
+experiment_id: '628482920464164812'
+last_updated_timestamp: 1777576061657
+model_id: m-99c7e549a9f0497aaa24bf0e38a869fb
+model_type: null
+name: RandomForest
+source_run_id: 389485cb64d54afb9912f134723a8599
+status: 2
+status_message: null
